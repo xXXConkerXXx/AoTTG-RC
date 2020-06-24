@@ -1,0 +1,7 @@
+C:\Users\owner\Desktop\AoTTG Builds\AoTTG\RC\AoTTG Rc Source\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\AoTTG Builds\AoTTG\RC\AoTTG Rc Source\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-CSharp.dll
+C:\Users\owner\Desktop\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-CSharp.pdb
+C:\Users\owner\Desktop\AoTTG Builds\AoTTG\RC\AoTTG Rc Source\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\owner\Desktop\AoTTG Builds\AoTTG\RC\AoTTG Rc Source\obj\Debug\Assembly-CSharp.dll
+C:\Users\owner\Desktop\AoTTG Builds\AoTTG\RC\AoTTG Rc Source\obj\Debug\Assembly-CSharp.pdb

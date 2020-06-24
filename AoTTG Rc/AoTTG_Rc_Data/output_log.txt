@@ -1,0 +1,591 @@
+Initialize engine version: 4.6.0f3 (30840d631a27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1404]
+    Renderer: AMD Radeon(TM) R7 Graphics
+    Vendor:   ATI
+    VRAM:     1004 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Boo.Lang.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\Boo.Lang.dll into Unity Child Domain
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Loading C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\UnityScript.Lang.dll into Unity Child Domain
+- Completed reload, in  3.220 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\owner\Dropbox\all\Unity\Moddings\Games\AoTTGMods\AoTTG Builds\AoTTG\RC\AoTTG Rc\AoTTG_Rc_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerClickHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[IPointerClickHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[IPointerClickHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerClickHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[IPointerClickHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[IPointerClickHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerClickHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[IPointerClickHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[IPointerClickHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerClickHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[IPointerClickHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[IPointerClickHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Can't execute Disconnect() while not connected. Nothing changed. State: PeerCreated
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnConnectedToPhoton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerClickHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[IPointerClickHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[IPointerClickHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerClickHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[IPointerClickHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[IPointerClickHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[ISelectHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[ISelectHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[ISelectHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.DeselectIfSelectionChanged (UnityEngine.GameObject currentOverGo, UnityEngine.EventSystems.BaseEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerClickHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.CanHandleEvent[IPointerClickHandler] (UnityEngine.GameObject go) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventHandler[IPointerClickHandler] (UnityEngine.GameObject root) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMousePress (UnityEngine.EventSystems.MouseButtonEventData data) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponents[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.GetEventList[IPointerEnterHandler] (UnityEngine.GameObject go, IList`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.ExecuteEvents.Execute[IPointerEnterHandler] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.EventFunction`1 functor) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.BaseInputModule.HandlePointerExitAndEnter (UnityEngine.EventSystems.PointerEventData currentPointerData, UnityEngine.GameObject newEnterTarget) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.PointerInputModule.ProcessMove (UnityEngine.EventSystems.PointerEventData pointerEvent) [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.ProcessMouseEvent () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.StandaloneInputModule.Process () [0x00000] in <filename unknown>:0 
+  at UnityEngine.EventSystems.EventSystem.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+OnLeftLobby
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnCreatedRoom
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+OnJoinedRoom FoodForTitan`The City`normal`20`day``37283    >>>>   The City I
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 12.008900 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1 / Dirty serialized files: 0)
+
+Unloading 421 unused Assets to reduce memory usage. Loaded Objects now: 2420.
+Total: 16.672300 ms (FindLiveObjects: 0.311500 ms CreateObjectMapping: 0.147700 ms MarkObjects: 1.080000 ms  DeleteObjects: 8.782700 ms)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponentsInChildren[Component] (Boolean includeInactive, System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Component.GetComponentsInChildren[Component] (Boolean includeInactive, System.Collections.Generic.List`1 result) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Component.GetComponentsInChildren[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Mask.NotifyMaskStateChanged () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Mask.OnEnable () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type)
+UnityEngine.GameObject:AddComponent()
+Minimap:CreateUnityUIRT(Int32)
+Minimap:CreateMinimap(Camera, Int32, Single, Preset)
+IN_GAME_MAIN_CAMERA:CreateMinimap()
+IN_GAME_MAIN_CAMERA:Awake()
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+FengGameManagerMKII:OnLevelWasLoaded(Int32)
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponentsInChildren[Component] (Boolean includeInactive, System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Component.GetComponentsInChildren[Component] (Boolean includeInactive, System.Collections.Generic.List`1 result) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Component.GetComponentsInChildren[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Mask.NotifyMaskStateChanged () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Mask.OnSiblingGraphicEnabledDisabled () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.SendGraphicEnabledDisabled () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Graphic.OnDisable () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.MaskableGraphic.OnDisable () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SetActive(Boolean)
+Minimap:SetEnabled(Boolean)
+IN_GAME_MAIN_CAMERA:CreateMinimap()
+IN_GAME_MAIN_CAMERA:Awake()
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+FengGameManagerMKII:OnLevelWasLoaded(Int32)
+ 
+(Filename:  Line: -1)
+
+ArgumentException: The results list cannot be null
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentsForListInternal (System.Type,System.Type,bool,bool,bool,object)
+  at UnityEngine.GameObject.GetComponentsInChildren[Component] (Boolean includeInactive, System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Component.GetComponentsInChildren[Component] (Boolean includeInactive, System.Collections.Generic.List`1 result) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Component.GetComponentsInChildren[Component] (System.Collections.Generic.List`1 results) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Mask.NotifyMaskStateChanged () [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Mask.OnDisable () [0x00000] in <filename unknown>:0 
+UnityEngine.GameObject:SetActive(Boolean)
+Minimap:SetEnabled(Boolean)
+IN_GAME_MAIN_CAMERA:CreateMinimap()
+IN_GAME_MAIN_CAMERA:Awake()
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+FengGameManagerMKII:OnLevelWasLoaded(Int32)
+ 
+(Filename:  Line: -1)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+OnDisconnectedFromPhoton
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 18.793499 ms
+PhotonView ID duplicate found: 2. New: View (0)2 on MultiplayerManager (scene) old: View (0)2 on MultiplayerManager (scene). Maybe one wasn't destroyed on scene load?! Check for 'DontDestroyOnLoad'. Destroying old entry, adding new.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+ArgumentException: An element with the same key already exists in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.Int32,PhotonView].Add (Int32 key, .PhotonView value) [0x00000] in <filename unknown>:0 
+  at NetworkingPeer.RegisterPhotonView (.PhotonView netView) [0x00000] in <filename unknown>:0 
+  at PhotonView.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1 / Dirty serialized files: 0)
+
+Unloading 1267 unused Assets to reduce memory usage. Loaded Objects now: 5456.
+Total: 15.930200 ms (FindLiveObjects: 0.644800 ms CreateObjectMapping: 0.204000 ms MarkObjects: 7.115000 ms  DeleteObjects: 2.496300 ms)
+
